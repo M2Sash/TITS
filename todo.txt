@@ -1,0 +1,1 @@
+Function gets the Academy Name, Classroom ID, comp id and returns the number
