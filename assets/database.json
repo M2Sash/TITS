@@ -1,6 +1,28 @@
 {
- "acad": [],
- "class": [],
- "users": [],
- "components": []
+ "acad": {
+  "man_uni": {
+   "cabinets": {
+    "cab104": {
+     "components": [
+      {
+       "id": "water",
+       "amount": -1,
+       "image": "imageurlorsmth",
+       "logs": [
+        "+inf:admin"
+       ]
+      }
+     ]
+    }
+   },
+   "users": {}
+  }
+ },
+ "users": {
+  "Alex": {
+   "pass": "daaad6e5604e8e17bd9f108d91e26afe6281dac8fda0091040a7a6d7bd9b43b5",
+   "email": "Alex@M2Inc.Dev",
+   "access": []
+  }
+ }
 }
